@@ -1,0 +1,33 @@
+CS 1501 Assignment Information Sheet
+ 
+You must submit an information sheet with every assignment. 
+Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name: Matt Joseph Assignment #: 5
+Recitation Day and Time: Friday @ 1:00pm
+Recitation Instructor: Charmgil Hong
+Program Due Date: 2011/04/17 @ 11:59pm
+Handed in Date: 2011/04/17 
+Source code file name(s):
+wordSearch.java, TST.java
+________________________________________________________________
+Compiled (.jar or .exe) file name(s):
+wordSearch.class, wordSearch$StopWatch.class, TST.class,
+TST$Node.class
+Other file name(s) (if relevant): UserGuide.txt
+________________________________________________________________
+________________________________________________________________
+Does your program compile without error?: Yes
+If not, what is/are the error(s)?:
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+Does your program run without error?: Yes
+If not, what is/are the error(s) and which parts of your program run correctly?:
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+Additional comments (including problems and extra credit):
+________________________________________________________________
+________________________________________________________________
